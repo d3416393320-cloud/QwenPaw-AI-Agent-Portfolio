@@ -1,0 +1,11 @@
+# 鏁忔劅鏂囦欢 - 缁濅笉鎺ㄩ€?
+accounts.json
+MEMORY.md
+PROFILE.md
+memory/*.md
+
+# 娴忚鍣ㄦ暟鎹?
+browser/
+
+# QwenPaw 鍐呴儴
+tool_results/
